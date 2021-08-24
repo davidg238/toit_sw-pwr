@@ -1,0 +1,5 @@
+
+name: tsk_pwr_sw
+entrypoint: main.toit
+triggers:
+    on_install: true
