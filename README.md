@@ -12,6 +12,7 @@ Switches are monitored via `wait_for`, so the board should be sleeping mostly.
 * LED, sourced on IO15 (limited by 470 ohm resistor)
 
 ## References
-[A Guide to Debouncing, or, How to Debounce a Contact in Two Easy Pages, by Jack Ganssle](http://www.ganssle.com/debouncing.htm)
-[Ultimate Guide to Switch Debounce (Part 4)](https://www.eejournal.com/article/ultimate-guide-to-switch-debounce-part-4)
-[Battery voltage supported on Adafruit Huzzah32 ...](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather/pinouts)
+[A Guide to Debouncing, or, How to Debounce a Contact in Two Easy Pages, by Jack Ganssle](http://www.ganssle.com/debouncing.htm)  
+[Ultimate Guide to Switch Debounce (Part 4)](https://www.eejournal.com/article/ultimate-guide-to-switch-debounce-part-4)  
+[Battery voltage supported on Adafruit Huzzah32 ...](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather/pinouts)  
+
